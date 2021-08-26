@@ -31,3 +31,5 @@ Inspiration
 •	Are some weapons favourable to others?
 
 •	What attributes should your team have to win? Health, armor or money?
+
+Link for Dataset: https://www.kaggle.com/christianlillelund/csgo-round-winner-classification
